@@ -1,4 +1,5 @@
 # BITS paper code
+[![DOI](https://zenodo.org/badge/910080608.svg)](https://doi.org/10.5281/zenodo.14593699)
 
 This repository contains the `R` code used for obtaining the empirical results
 presented in the manuscript that introduces BITS (Boosting Interaction Tree Stumps).
